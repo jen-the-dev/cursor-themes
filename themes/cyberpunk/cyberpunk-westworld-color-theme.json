@@ -1,0 +1,215 @@
+{
+  "name": "Cyberpunk - Westworld",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#221100",
+    "editor.foreground": "#ffcc88",
+    "editor.lineHighlightBackground": "#ffffff0a",
+    "editorLineNumber.foreground": "#444444",
+    "editorLineNumber.activeForeground": "#ff8844",
+    "editorGutter.background": "#221100",
+    "sideBar.background": "#ffffff08",
+    "foreground": "#ffcc88",
+    "descriptionForeground": "#666666",
+    "list.highlightForeground": "#ff8844",
+    "dropdown.background": "#ffffff10",
+    "list.hoverBackground": "#ffffff18",
+    "panel.border": "#333333",
+    "focusBorder": "#ff8844",
+    "editorGroupHeader.tabsBackground": "#221100",
+    "tab.activeBackground": "#ffffff08",
+    "tab.inactiveBackground": "#221100",
+    "panel.background": "#ffffff05",
+    "titleBar.activeBackground": "#221100",
+    "statusBar.background": "#221100",
+    "terminal.background": "#221100",
+    "terminal.foreground": "#ffcc88",
+    "terminal.ansiBlack": "#221100",
+    "terminal.ansiRed": "#ff5555",
+    "terminal.ansiGreen": "#ff8844",
+    "terminal.ansiYellow": "#ffff55",
+    "terminal.ansiBlue": "#5555ff",
+    "terminal.ansiMagenta": "#ffcc88",
+    "terminal.ansiCyan": "#ff8844",
+    "terminal.ansiWhite": "#ffcc88",
+    "activityBar.background": "#ffffff08",
+    "sideBarTitle.foreground": "#ffcc88",
+    "editorCursor.foreground": "#ffcc88",
+    "selection.background": "#264f78"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#ff8844",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template"
+      ],
+      "settings": {
+        "foreground": "#88cc88"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#666666",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#ffcc88"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#ff8844"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#ff8844"
+      }
+    },
+    {
+      "scope": [
+        "constant.language.boolean"
+      ],
+      "settings": {
+        "foreground": "#ff8844"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#ffcc88"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#ffcc88"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property"
+      ],
+      "settings": {
+        "foreground": "#ffcc88"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#ff8844",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#ff8844"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#ffcc88"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#ff8844"
+      }
+    },
+    {
+      "scope": [
+        "string.other.embedded",
+        "meta.embedded"
+      ],
+      "settings": {
+        "foreground": "#ffcc88"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link",
+        "string.other.link"
+      ],
+      "settings": {
+        "foreground": "#ff8844",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": [
+        "markup.italic",
+        "emphasis"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold",
+        "strong"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "name": "Cyberpunk - TRON Solar",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#110800",
+    "editor.foreground": "#ffcc00",
+    "editor.lineHighlightBackground": "#ffffff0a",
+    "editorLineNumber.foreground": "#444444",
+    "editorLineNumber.activeForeground": "#ff8800",
+    "editorGutter.background": "#110800",
+    "sideBar.background": "#ffffff08",
+    "foreground": "#ffcc00",
+    "descriptionForeground": "#666666",
+    "list.highlightForeground": "#ff8800",
+    "dropdown.background": "#ffffff10",
+    "list.hoverBackground": "#ffffff18",
+    "panel.border": "#333333",
+    "focusBorder": "#ff8800",
+    "editorGroupHeader.tabsBackground": "#110800",
+    "tab.activeBackground": "#ffffff08",
+    "tab.inactiveBackground": "#110800",
+    "panel.background": "#ffffff05",
+    "titleBar.activeBackground": "#110800",
+    "statusBar.background": "#110800",
+    "terminal.background": "#110800",
+    "terminal.foreground": "#ffcc00",
+    "terminal.ansiBlack": "#110800",
+    "terminal.ansiRed": "#ff5555",
+    "terminal.ansiGreen": "#ff8800",
+    "terminal.ansiYellow": "#ffff55",
+    "terminal.ansiBlue": "#5555ff",
+    "terminal.ansiMagenta": "#ffcc00",
+    "terminal.ansiCyan": "#ff8800",
+    "terminal.ansiWhite": "#ffcc00",
+    "activityBar.background": "#ffffff08",
+    "sideBarTitle.foreground": "#ffcc00",
+    "editorCursor.foreground": "#ffcc00",
+    "selection.background": "#264f78"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#ff8800",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template"
+      ],
+      "settings": {
+        "foreground": "#88cc88"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#666666",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#ffcc00"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#ff8800"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#ff8800"
+      }
+    },
+    {
+      "scope": [
+        "constant.language.boolean"
+      ],
+      "settings": {
+        "foreground": "#ff8800"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#ffcc00"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#ffcc00"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property"
+      ],
+      "settings": {
+        "foreground": "#ffcc00"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#ff8800",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#ff8800"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#ffcc00"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#ff8800"
+      }
+    },
+    {
+      "scope": [
+        "string.other.embedded",
+        "meta.embedded"
+      ],
+      "settings": {
+        "foreground": "#ffcc00"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link",
+        "string.other.link"
+      ],
+      "settings": {
+        "foreground": "#ff8800",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": [
+        "markup.italic",
+        "emphasis"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold",
+        "strong"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

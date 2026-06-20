@@ -1,0 +1,215 @@
+{
+  "name": "Cyberpunk - Lawnmower Man",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#004400",
+    "editor.foreground": "#00ff00",
+    "editor.lineHighlightBackground": "#ffffff0a",
+    "editorLineNumber.foreground": "#444444",
+    "editorLineNumber.activeForeground": "#88ff88",
+    "editorGutter.background": "#004400",
+    "sideBar.background": "#ffffff08",
+    "foreground": "#00ff00",
+    "descriptionForeground": "#666666",
+    "list.highlightForeground": "#88ff88",
+    "dropdown.background": "#ffffff10",
+    "list.hoverBackground": "#ffffff18",
+    "panel.border": "#333333",
+    "focusBorder": "#88ff88",
+    "editorGroupHeader.tabsBackground": "#004400",
+    "tab.activeBackground": "#ffffff08",
+    "tab.inactiveBackground": "#004400",
+    "panel.background": "#ffffff05",
+    "titleBar.activeBackground": "#004400",
+    "statusBar.background": "#004400",
+    "terminal.background": "#004400",
+    "terminal.foreground": "#00ff00",
+    "terminal.ansiBlack": "#004400",
+    "terminal.ansiRed": "#ff5555",
+    "terminal.ansiGreen": "#88ff88",
+    "terminal.ansiYellow": "#ffff55",
+    "terminal.ansiBlue": "#5555ff",
+    "terminal.ansiMagenta": "#00ff00",
+    "terminal.ansiCyan": "#88ff88",
+    "terminal.ansiWhite": "#00ff00",
+    "activityBar.background": "#ffffff08",
+    "sideBarTitle.foreground": "#00ff00",
+    "editorCursor.foreground": "#00ff00",
+    "selection.background": "#264f78"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#88ff88",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template"
+      ],
+      "settings": {
+        "foreground": "#88cc88"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#666666",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#00ff00"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#88ff88"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#88ff88"
+      }
+    },
+    {
+      "scope": [
+        "constant.language.boolean"
+      ],
+      "settings": {
+        "foreground": "#88ff88"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#00ff00"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#00ff00"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property"
+      ],
+      "settings": {
+        "foreground": "#00ff00"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#88ff88",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#88ff88"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#00ff00"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#88ff88"
+      }
+    },
+    {
+      "scope": [
+        "string.other.embedded",
+        "meta.embedded"
+      ],
+      "settings": {
+        "foreground": "#00ff00"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link",
+        "string.other.link"
+      ],
+      "settings": {
+        "foreground": "#88ff88",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": [
+        "markup.italic",
+        "emphasis"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold",
+        "strong"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

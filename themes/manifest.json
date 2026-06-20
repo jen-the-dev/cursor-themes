@@ -1,0 +1,248 @@
+{
+  "categories": {
+    "cyberpunk": [
+      "Cyberpunk - Acid Burn",
+      "Cyberpunk - Akira",
+      "Cyberpunk - Blade Runner",
+      "Cyberpunk - Breeze Dark",
+      "Cyberpunk - Breeze Glacius",
+      "Cyberpunk - Breeze Light",
+      "Cyberpunk - Cyber Noir",
+      "Cyberpunk - Cyberpunk Pandora",
+      "Cyberpunk - Ex Machina",
+      "Cyberpunk - Ghost in the Shell",
+      "Cyberpunk - Gibson",
+      "Cyberpunk - Hackers 95",
+      "Cyberpunk - Her",
+      "Cyberpunk - Lawnmower Man",
+      "Cyberpunk - LCARS",
+      "Cyberpunk - Minority Report",
+      "Cyberpunk - Oxygen Cold",
+      "Cyberpunk - Oxygen",
+      "Cyberpunk - Pandora Dark",
+      "Cyberpunk - Sweet Cyber",
+      "Cyberpunk - Swordfish Cyber",
+      "Cyberpunk - Synthwave Crimson",
+      "Cyberpunk - Synthwave Neon",
+      "Cyberpunk - TRON Legacy",
+      "Cyberpunk - TRON Phantom",
+      "Cyberpunk - TRON Security",
+      "Cyberpunk - TRON Solar",
+      "Cyberpunk - TRON Viral",
+      "Cyberpunk - WarGames",
+      "Cyberpunk - Westworld"
+    ]
+  },
+  "themes": [
+    {
+      "label": "Cyberpunk - Acid Burn",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-acid-burn-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-acid-burn.json"
+    },
+    {
+      "label": "Cyberpunk - Akira",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-akira-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-akira.json"
+    },
+    {
+      "label": "Cyberpunk - Blade Runner",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-blade-runner-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-blade-runner.json"
+    },
+    {
+      "label": "Cyberpunk - Breeze Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-breeze-dark-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-breeze-dark.json"
+    },
+    {
+      "label": "Cyberpunk - Breeze Glacius",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-breeze-glacius-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-breeze-glacius.json"
+    },
+    {
+      "label": "Cyberpunk - Breeze Light",
+      "uiTheme": "vs",
+      "path": "./themes/cyberpunk/cyberpunk-breeze-light-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-breeze-light.json"
+    },
+    {
+      "label": "Cyberpunk - Cyber Noir",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-cyber-noir-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-cyber-noir.json"
+    },
+    {
+      "label": "Cyberpunk - Cyberpunk Pandora",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-cyberpunk-pandora-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-cyberpunk-pandora.json"
+    },
+    {
+      "label": "Cyberpunk - Ex Machina",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-ex-machina-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-ex-machina.json"
+    },
+    {
+      "label": "Cyberpunk - Ghost in the Shell",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-ghost-in-the-shell-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-ghost-in-the-shell.json"
+    },
+    {
+      "label": "Cyberpunk - Gibson",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-gibson-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-gibson.json"
+    },
+    {
+      "label": "Cyberpunk - Hackers 95",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-hackers-95-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-hackers-95.json"
+    },
+    {
+      "label": "Cyberpunk - Her",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-her-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-her.json"
+    },
+    {
+      "label": "Cyberpunk - Lawnmower Man",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-lawnmower-man-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-lawnmower-man.json"
+    },
+    {
+      "label": "Cyberpunk - LCARS",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-lcars-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-lcars.json"
+    },
+    {
+      "label": "Cyberpunk - Minority Report",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-minority-report-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-minority-report.json"
+    },
+    {
+      "label": "Cyberpunk - Oxygen Cold",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-oxygen-cold-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-oxygen-cold.json"
+    },
+    {
+      "label": "Cyberpunk - Oxygen",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-oxygen-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-oxygen.json"
+    },
+    {
+      "label": "Cyberpunk - Pandora Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-pandora-dark-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-pandora-dark.json"
+    },
+    {
+      "label": "Cyberpunk - Sweet Cyber",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-sweet-cyber-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-sweet-cyber.json"
+    },
+    {
+      "label": "Cyberpunk - Swordfish Cyber",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-swordfish-cyber-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-swordfish-cyber.json"
+    },
+    {
+      "label": "Cyberpunk - Synthwave Crimson",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-synthwave-crimson-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-synthwave-crimson.json"
+    },
+    {
+      "label": "Cyberpunk - Synthwave Neon",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-synthwave-neon-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-synthwave-neon.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Legacy",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-legacy-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-tron-legacy.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Phantom",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-phantom-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-tron-phantom.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Security",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-security-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-tron-security.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Solar",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-solar-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-tron-solar.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Viral",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-viral-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-tron-viral.json"
+    },
+    {
+      "label": "Cyberpunk - WarGames",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-wargames-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-wargames.json"
+    },
+    {
+      "label": "Cyberpunk - Westworld",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-westworld-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-westworld.json"
+    }
+  ]
+}

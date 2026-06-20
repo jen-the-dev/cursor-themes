@@ -1,0 +1,172 @@
+{
+  "name": "cursor-themes",
+  "displayName": "Jen the Dev Cursor Themes",
+  "description": "Cyberpunk and MTG theme collections for Cursor, converted from Zed themes.",
+  "version": "1.0.0",
+  "publisher": "jen-the-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jen-the-dev/cursor-themes"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk - Acid Burn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-acid-burn-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Akira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-akira-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Blade Runner",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-blade-runner-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Breeze Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-breeze-dark-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Breeze Glacius",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-breeze-glacius-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Breeze Light",
+        "uiTheme": "vs",
+        "path": "./themes/cyberpunk/cyberpunk-breeze-light-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Cyber Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-cyber-noir-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Cyberpunk Pandora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-cyberpunk-pandora-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Ex Machina",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-ex-machina-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Ghost in the Shell",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-ghost-in-the-shell-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Gibson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-gibson-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Hackers 95",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-hackers-95-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Her",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-her-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Lawnmower Man",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-lawnmower-man-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - LCARS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-lcars-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Minority Report",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-minority-report-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Oxygen Cold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-oxygen-cold-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Oxygen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-oxygen-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Pandora Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-pandora-dark-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Sweet Cyber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-sweet-cyber-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Swordfish Cyber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-swordfish-cyber-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Synthwave Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-synthwave-crimson-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Synthwave Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-synthwave-neon-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Legacy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-legacy-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Phantom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-phantom-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Security",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-security-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Solar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-solar-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Viral",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-viral-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - WarGames",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-wargames-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Westworld",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-westworld-color-theme.json"
+      }
+    ]
+  }
+}
