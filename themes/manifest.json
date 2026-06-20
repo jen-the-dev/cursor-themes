@@ -31,6 +31,33 @@
       "Cyberpunk - TRON Viral",
       "Cyberpunk - WarGames",
       "Cyberpunk - Westworld"
+    ],
+    "mtg": [
+      "Mtg - Azorius Senate",
+      "Mtg - Bant Shard",
+      "Mtg - Boros Legion",
+      "Mtg - Chrome Mox",
+      "Mtg - Dimir House",
+      "Mtg - Esper Shard",
+      "Mtg - Forest Green",
+      "Mtg - Golgari Swarm",
+      "Mtg - Grixis Shard",
+      "Mtg - Gruul Clans",
+      "Mtg - Island Blue",
+      "Mtg - Izzet League",
+      "Mtg - Jeskai Way",
+      "Mtg - Jund Shard",
+      "Mtg - Mardu Horde",
+      "Mtg - Mountain Red",
+      "Mtg - Naya Shard",
+      "Mtg - Orzhov Syndicate",
+      "Mtg - Plains White",
+      "Mtg - Rakdos Carnival",
+      "Mtg - Selesnya Conclave",
+      "Mtg - Simic Combine",
+      "Mtg - Sultai Brood",
+      "Mtg - Swamp Black",
+      "Mtg - Temur Frontier"
     ]
   },
   "themes": [
@@ -243,6 +270,181 @@
       "path": "./themes/cyberpunk/cyberpunk-westworld-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/zed-themes/cyberpunk-zed-themes/themes/cyberpunk-westworld.json"
+    },
+    {
+      "label": "Mtg - Azorius Senate",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-azorius-wu-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-azorius-wu.json"
+    },
+    {
+      "label": "Mtg - Bant Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-bant-gwu-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-bant-gwu.json"
+    },
+    {
+      "label": "Mtg - Boros Legion",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-boros-rw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-boros-rw.json"
+    },
+    {
+      "label": "Mtg - Chrome Mox",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-chrome-mox-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-chrome-mox.json"
+    },
+    {
+      "label": "Mtg - Dimir House",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-dimir-ub-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-dimir-ub.json"
+    },
+    {
+      "label": "Mtg - Esper Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-esper-wub-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-esper-wub.json"
+    },
+    {
+      "label": "Mtg - Forest Green",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-forest-green-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-forest-green.json"
+    },
+    {
+      "label": "Mtg - Golgari Swarm",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-golgari-bg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-golgari-bg.json"
+    },
+    {
+      "label": "Mtg - Grixis Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-grixis-ubr-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-grixis-ubr.json"
+    },
+    {
+      "label": "Mtg - Gruul Clans",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-gruul-rg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-gruul-rg.json"
+    },
+    {
+      "label": "Mtg - Island Blue",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-island-blue-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-island-blue.json"
+    },
+    {
+      "label": "Mtg - Izzet League",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-izzet-ur-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-izzet-ur.json"
+    },
+    {
+      "label": "Mtg - Jeskai Way",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-jeskai-urw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-jeskai-urw.json"
+    },
+    {
+      "label": "Mtg - Jund Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-jund-brg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-jund-brg.json"
+    },
+    {
+      "label": "Mtg - Mardu Horde",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-mardu-rwb-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-mardu-rwb.json"
+    },
+    {
+      "label": "Mtg - Mountain Red",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-mountain-red-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-mountain-red.json"
+    },
+    {
+      "label": "Mtg - Naya Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-naya-rgw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-naya-rgw.json"
+    },
+    {
+      "label": "Mtg - Orzhov Syndicate",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-orzhov-wb-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-orzhov-wb.json"
+    },
+    {
+      "label": "Mtg - Plains White",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-plains-white-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-plains-white.json"
+    },
+    {
+      "label": "Mtg - Rakdos Carnival",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-rakdos-br-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-rakdos-br.json"
+    },
+    {
+      "label": "Mtg - Selesnya Conclave",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-selesnya-gw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-selesnya-gw.json"
+    },
+    {
+      "label": "Mtg - Simic Combine",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-simic-ug-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-simic-ug.json"
+    },
+    {
+      "label": "Mtg - Sultai Brood",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-sultai-gub-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-sultai-gub.json"
+    },
+    {
+      "label": "Mtg - Swamp Black",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-swamp-black-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-swamp-black.json"
+    },
+    {
+      "label": "Mtg - Temur Frontier",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-temur-urg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/zed-themes/zed-mtg-themes/themes/mtg-temur-urg.json"
     }
   ]
 }

@@ -1,0 +1,215 @@
+{
+  "name": "Mtg - Azorius Senate",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#101820",
+    "editor.foreground": "#d7ebff",
+    "editor.lineHighlightBackground": "#ffffff0a",
+    "editorLineNumber.foreground": "#6b7f94",
+    "editorLineNumber.activeForeground": "#7eb6ff",
+    "editorGutter.background": "#101820",
+    "sideBar.background": "#ffffff08",
+    "foreground": "#d7ebff",
+    "descriptionForeground": "#6b7f94",
+    "list.highlightForeground": "#7eb6ff",
+    "dropdown.background": "#ffffff10",
+    "list.hoverBackground": "#ffffff18",
+    "panel.border": "#6b7f94",
+    "focusBorder": "#7eb6ff",
+    "editorGroupHeader.tabsBackground": "#101820",
+    "tab.activeBackground": "#ffffff08",
+    "tab.inactiveBackground": "#101820",
+    "panel.background": "#ffffff05",
+    "titleBar.activeBackground": "#101820",
+    "statusBar.background": "#101820",
+    "terminal.background": "#101820",
+    "terminal.foreground": "#d7ebff",
+    "terminal.ansiBlack": "#101820",
+    "terminal.ansiRed": "#ff5555",
+    "terminal.ansiGreen": "#a8d4ff",
+    "terminal.ansiYellow": "#7eb6ff",
+    "terminal.ansiBlue": "#4da3ff",
+    "terminal.ansiMagenta": "#d7ebff",
+    "terminal.ansiCyan": "#7eb6ff",
+    "terminal.ansiWhite": "#d7ebff",
+    "activityBar.background": "#ffffff08",
+    "sideBarTitle.foreground": "#d7ebff",
+    "editorCursor.foreground": "#d7ebff",
+    "selection.background": "#264f78"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#4da3ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template"
+      ],
+      "settings": {
+        "foreground": "#a8d4ff"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#6b7f94",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#d7ebff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#7eb6ff"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#7eb6ff"
+      }
+    },
+    {
+      "scope": [
+        "constant.language.boolean"
+      ],
+      "settings": {
+        "foreground": "#7eb6ff"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#d7ebff"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#d7ebff"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property"
+      ],
+      "settings": {
+        "foreground": "#d7ebff"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#4da3ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#6b7f94"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#7eb6ff"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#d7ebff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#7eb6ff"
+      }
+    },
+    {
+      "scope": [
+        "string.other.embedded",
+        "meta.embedded"
+      ],
+      "settings": {
+        "foreground": "#a8d4ff"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link",
+        "string.other.link"
+      ],
+      "settings": {
+        "foreground": "#7eb6ff",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": [
+        "markup.italic",
+        "emphasis"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold",
+        "strong"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

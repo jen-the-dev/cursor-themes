@@ -7,7 +7,7 @@ Cyberpunk and Magic: The Gathering theme collections for **Cursor**, converted f
 | Category | Themes | Zed source |
 |----------|--------|------------|
 | **cyberpunk** | 30 movie-inspired dark/light themes | [cyberpunk-zed-themes](https://github.com/jen-the-dev/cyberpunk-zed-themes) |
-| **mtg** | Add Zed MTG themes to `sources/zed/mtg/`, then rebuild | [zed-mtg-themes](https://github.com/jen-the-dev/zed-mtg-themes) |
+| **mtg** | 25 Magic color identity, guild, and shard themes | [zed-mtg-themes](https://github.com/jen-the-dev/zed-mtg-themes) |
 
 Theme names in Cursor appear as `Cyberpunk - Blade Runner`, `Mtg - ...`, etc.
 
@@ -39,7 +39,7 @@ npm install -g @vscode/vsce
 ./build.sh
 ```
 
-Install the generated `.vsix` via **Extensions ? Install from VSIXÖ**
+Install the generated `.vsix` via **Extensions ? Install from VSIXù**
 
 ## Uninstall
 
@@ -65,4 +65,4 @@ cursor-themes/
 
 ## License
 
-MIT ó see [LICENSE](LICENSE).
+MIT ù see [LICENSE](LICENSE).

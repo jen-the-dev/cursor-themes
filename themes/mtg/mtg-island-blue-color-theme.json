@@ -1,0 +1,215 @@
+{
+  "name": "Mtg - Island Blue",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#081018",
+    "editor.foreground": "#9fd4ff",
+    "editor.lineHighlightBackground": "#ffffff0a",
+    "editorLineNumber.foreground": "#5a7a94",
+    "editorLineNumber.activeForeground": "#0e68ab",
+    "editorGutter.background": "#081018",
+    "sideBar.background": "#ffffff08",
+    "foreground": "#9fd4ff",
+    "descriptionForeground": "#5a7a94",
+    "list.highlightForeground": "#0e68ab",
+    "dropdown.background": "#ffffff10",
+    "list.hoverBackground": "#ffffff18",
+    "panel.border": "#5a7a94",
+    "focusBorder": "#0e68ab",
+    "editorGroupHeader.tabsBackground": "#081018",
+    "tab.activeBackground": "#ffffff08",
+    "tab.inactiveBackground": "#081018",
+    "panel.background": "#ffffff05",
+    "titleBar.activeBackground": "#081018",
+    "statusBar.background": "#081018",
+    "terminal.background": "#081018",
+    "terminal.foreground": "#9fd4ff",
+    "terminal.ansiBlack": "#081018",
+    "terminal.ansiRed": "#ff5555",
+    "terminal.ansiGreen": "#7ec8e3",
+    "terminal.ansiYellow": "#0e68ab",
+    "terminal.ansiBlue": "#4db8ff",
+    "terminal.ansiMagenta": "#9fd4ff",
+    "terminal.ansiCyan": "#0e68ab",
+    "terminal.ansiWhite": "#9fd4ff",
+    "activityBar.background": "#ffffff08",
+    "sideBarTitle.foreground": "#9fd4ff",
+    "editorCursor.foreground": "#9fd4ff",
+    "selection.background": "#264f78"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#4db8ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template"
+      ],
+      "settings": {
+        "foreground": "#7ec8e3"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#5a7a94",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#9fd4ff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#0e68ab"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#0e68ab"
+      }
+    },
+    {
+      "scope": [
+        "constant.language.boolean"
+      ],
+      "settings": {
+        "foreground": "#0e68ab"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#9fd4ff"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#9fd4ff"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property"
+      ],
+      "settings": {
+        "foreground": "#9fd4ff"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#4db8ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#5a7a94"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#0e68ab"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#9fd4ff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#0e68ab"
+      }
+    },
+    {
+      "scope": [
+        "string.other.embedded",
+        "meta.embedded"
+      ],
+      "settings": {
+        "foreground": "#7ec8e3"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link",
+        "string.other.link"
+      ],
+      "settings": {
+        "foreground": "#0e68ab",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": [
+        "markup.italic",
+        "emphasis"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold",
+        "strong"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}
