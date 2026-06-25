@@ -39,7 +39,7 @@ npm install -g @vscode/vsce
 ./build.sh
 ```
 
-Install the generated `.vsix` via **Extensions ? Install from VSIX**
+Install the generated `.vsix` via **Extensions ? Install from VSIXï¿½**
 
 ## Uninstall
 
@@ -65,4 +65,54 @@ cursor-themes/
 
 ## License
 
-MIT  see [LICENSE](LICENSE).
+MIT ï¿½ see [LICENSE](LICENSE).
+
+
+## Problem
+Teams using visual coding themes need reproducible theme generation and installation workflows across environments.
+
+## Solution
+A conversion and packaging workflow for theme collections, including install/rebuild scripts and distribution support.
+
+## Architecture Diagram
+```mermaid
+flowchart LR
+  Source["Zed Theme JSON"] --> Convert["Python converter"]
+  Convert --> CursorThemes["Cursor theme output"]
+  CursorThemes --> Install["install.sh / build.sh"]
+  Install --> Editor["Cursor editor theme selection"]
+```
+
+## Tech Stack
+- Python scripting
+- Shell automation
+- JSON theme manifests
+- VS Code extension packaging
+
+## Setup Instructions
+```bash
+git clone https://github.com/jen-the-dev/cursor-themes.git
+cd cursor-themes
+./install.sh
+```
+
+## Testing
+- python3 scripts/zed_to_cursor.py
+- Manual validation by loading generated themes in Cursor
+
+## ANZSCO 261312 Competency Evidence
+- Automation scripting for developer productivity.
+- Tooling integration and repeatable configuration management.
+- Documentation for maintainable setup processes.
+
+## Commit Convention
+Use Conventional Commits for presentation clarity:
+- `feat(scope): add new user-facing capability`
+- `fix(scope): resolve functional defect`
+- `test(scope): add or improve automated tests`
+- `docs(readme): improve project documentation`
+
+## Evidence Map
+- `scripts/zed_to_cursor.py`
+- `themes/`
+- `install.sh`
