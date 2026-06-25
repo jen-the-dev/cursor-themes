@@ -2,6 +2,12 @@
 
 Cyberpunk and Magic: The Gathering theme collections for **Cursor**, converted from [Zed](https://zed.dev) theme JSON.
 
+
+## ANZSCO 261312 Skills Snapshot
+- Developer tooling automation using Python and shell scripting.
+- Build/packaging workflow design for repeatable extension distribution.
+- Documentation-led delivery for maintainable team onboarding and usage.
+
 ## Categories
 
 | Category | Themes | Zed source |
