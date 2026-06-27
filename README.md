@@ -3,10 +3,10 @@
 Cyberpunk and Magic: The Gathering theme collections for **Cursor**, converted from [Zed](https://zed.dev) theme JSON.
 
 
-## ANZSCO 261312 Skills Snapshot
-- Developer tooling automation using Python and shell scripting.
-- Build/packaging workflow design for repeatable extension distribution.
-- Documentation-led delivery for maintainable team onboarding and usage.
+## ANZSCO 261211 + 261312 Skills Snapshot
+- Application theming, visual customization, and style-pack delivery for editor UX (261211).
+- Developer tooling automation using Python and shell scripting (261312).
+- Build/packaging workflow design for repeatable extension distribution (261312).
 
 ## Categories
 
@@ -106,10 +106,10 @@ cd cursor-themes
 - python3 scripts/zed_to_cursor.py
 - Manual validation by loading generated themes in Cursor
 
-## ANZSCO 261312 Competency Evidence
-- Automation scripting for developer productivity.
-- Tooling integration and repeatable configuration management.
-- Documentation for maintainable setup processes.
+## ANZSCO 261211 + 261312 Competency Evidence
+- **261211 (Multimedia Specialist)**: cross-editor theme customization and visual presentation consistency.
+- **261312 (Developer Programmer)**: automation scripting, tooling integration, and repeatable configuration management.
+- Documentation for maintainable setup and distribution processes.
 
 ## Commit Convention
 Use Conventional Commits for presentation clarity:

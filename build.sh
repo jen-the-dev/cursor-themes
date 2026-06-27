@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# build.sh — regenerate Cursor themes from Zed sources and optionally package a VSIX
+# build.sh ï¿½ regenerate Cursor themes from Zed sources and optionally package a VSIX
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"

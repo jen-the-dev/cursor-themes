@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# install.sh ù install cursor-themes as a local Cursor extension
+# install.sh ÔøΩ install cursor-themes as a local Cursor extension
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
